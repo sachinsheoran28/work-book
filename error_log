@@ -1,0 +1,3 @@
+[20-Jul-2016 13:18:53 Asia/Kolkata] PHP Fatal error:  Class 'CI_Model' not found in /home/yudisumi/public_html/aura/application/controllers/admin/Results.php on line 3
+[20-Jul-2016 13:50:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/yudisumi/public_html/aura/application/models/Question_model.php on line 121
+[20-Jul-2016 13:55:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/yudisumi/public_html/aura/application/views/admin/vwViewResult.php on line 63
